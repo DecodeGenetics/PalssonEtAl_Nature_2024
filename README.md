@@ -1,6 +1,8 @@
 # PalssonEtAl_Nature_2024
 Supplementary data for Nature publication: Complete human recombination maps
 
+[![DOI](https://zenodo.org/badge/881931391.svg)](https://doi.org/10.5281/zenodo.14025564)
+
 ## Authors
 
 Gunnar Palsson<sup>1</sup>, Marteinn T. Hardarson<sup>1,2</sup>, Hakon Jonsson<sup>1</sup>, Valgerdur Steinthorsdottir<sup>1</sup>, Olafur A. Stefansson<sup>1</sup>, Hannes P. Eggertsson<sup>1</sup>, Sigurjon A. Gudjonsson<sup>1</sup>, Pall I. Olason<sup>1</sup>, Arnaldur Gylfason<sup>1</sup>, Gisli Masson<sup>1</sup>, Unnur Thorsteinsdottir<sup>1,3</sup>, Patrick Sulem<sup>1</sup>, Agnar Helgason<sup>1,4</sup>, Daniel F. Gudbjartsson<sup>1,5</sup>, Bjarni V. Halldorsson<sup>1,2,*</sup>, Kari Stefansson<sup>1,3,*</sup>
